@@ -51,4 +51,8 @@
     padding-top: 4rem;
     padding-bottom: 2rem;
     }
+    .aboutsection img{
+        width: 90vw;
+    object-fit: contain;
+}
 }
